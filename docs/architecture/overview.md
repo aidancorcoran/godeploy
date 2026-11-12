@@ -1,7 +1,7 @@
 # GoDeploy Architecture Overview
 
 ```mermaid
-test;
+graph TD;
     A-->B;
     A-->C;
     B-->D;
