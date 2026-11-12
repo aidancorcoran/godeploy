@@ -5,6 +5,6 @@ graph TD;
     A-->B;
     A-->C;
     B-->D;
-    D-->E:
+    D-->E;
     C-->E;
 ```
